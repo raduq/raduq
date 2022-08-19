@@ -2,4 +2,7 @@
 
 - 🔭 I’m currently working @Quin
 - 🌱 I’m currently learning *kotlin*
-- ⚡ Fun fact: https://www.mentalfloss.com/amazingfactgenerator
+- 👍🏻 I like: 🎮 Games, 🍔 Food, 🐈 Cats
+- 👎🏻 I dislike: 🎙 Talking, 🔉 Loud noises, 🐌 Slow machines
+
+[![Raduq's GitHub stats](https://github-readme-stats.vercel.app/api?username=raduq)](https://github.com/anuraghazra/github-readme-stats)
