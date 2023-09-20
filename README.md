@@ -1,6 +1,6 @@
 ### Hello World
 
-- 🔭 I’m currently working @Quin
+- 🔭 I’m currently working @Rabobank
 - 🌱 I’m currently learning *kotlin*
 - 👍🏻 I like: 🎮 Games, 🍔 Food, 🐈 Cats
 - 👎🏻 I dislike: 🎙 Talking, 🔉 Loud noises, 🐌 Slow machines
